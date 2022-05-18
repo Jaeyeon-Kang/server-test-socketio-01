@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-First, run the development server:
+for running the development server:
 
 ```bash
 node index.js 
